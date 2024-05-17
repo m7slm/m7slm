@@ -72,8 +72,6 @@
  
 <p>
   &emsp;
-    <a href="instagram.com/m7slm"><img alt="Adobe" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
     <a href="https://codepen.io/m7slm"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -98,18 +96,9 @@
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/m7slm"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=m7slm&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋🏻‍♂️ Let's Connect
-<--! ->
 <p align="center">
 	<a href="https://github.com/m7slm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/mdkhomeri"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
